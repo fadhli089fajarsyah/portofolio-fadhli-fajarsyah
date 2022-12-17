@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link-h:hover{
+    color:#009A38;
+}
+
+.btn{
+    border:none;
+}
