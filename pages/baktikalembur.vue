@@ -1,22 +1,22 @@
 <template >
     <div class="overflow-hidden ">
        <navbar />
-           <div class=" h-[100px]  gbb bg-cover w-full xl:h-[300px] md:h-[200px] xl:px-[250px] xl:py-[90px]">
+           <div class="   gbb bg-cover w-full text-[7px] md:text-[10px] lg:text-[16px] h-[120px] px-[50px] py-[40px] lg:h-[300px] md:h-[200px] lg:px-[250px] lg:py-[90px]">
                <div class="flex justify-between">
                 <h1 class="text-white">DESA CISURUPAN,GARUT</h1>
                 <h1 class="text-white">November 2019</h1>
                </div>
-               <h1 class="xl:text-5xl md:text-2xl font-bold text-white my-[10px]">bakti a Lembur</h1>
+               <h1 class="lg:text-5xl text-[14px] md:text-2xl font-bold text-white md:my-[10px]">bakti a Lembur</h1>
                <h1 class="text-white">Untuk masyarakat lebih sehat dan sejahtera</h1>
            </div>
            <!-- isi -->
-           <div class="xl:px-[250px]">
-                <div class="flex items-center justify-between xl:py-[30px]">
-                    <img class=" px-[20px]  xl:h-[200px]" src="../assets/img/gl1.png" alt="">
-                    <img class=" px-[20px]  xl:h-[200px]" src="../assets/img/gl2.png" alt="">
-                    <img class=" px-[20px]  xl:h-[200px]" src="../assets/img/gl3.png" alt="">
+           <div class="lg:px-[250px] ">
+                <div class="flex px-[50px] lg:px-[0px] items-center justify-between py-[10px]  lg:py-[30px]">
+                    <img class=" h-[85px] md:h-[170px]  lg:h-[200px]" src="../assets/img/gl1.png" alt="">
+                    <img class=" h-[85px] md:h-[170px]  lg:h-[200px]" src="../assets/img/gl2.png" alt="">
+                    <img class=" h-[85px] md:h-[170px]  lg:h-[200px]" src="../assets/img/gl3.png" alt="">
                 </div>
-                <p class="xl:py-[20px]">Ahad 10 November 2019, menjadi hari pembuka kegiatan perdana Bakti Ka Lembur dari Yayasan Abdi Bakti Izzati (YABI) <br> <br>
+                <p class="pl-[10px] md:pl-[0px] g:py-[20px]">Ahad 10 November 2019, menjadi hari pembuka kegiatan perdana Bakti Ka Lembur dari Yayasan Abdi Bakti Izzati (YABI) <br> <br>
 
                     Dengan berbekal armada mobil dan motor, YABI beserta komunitas yang turut menyertai diantaranya Springtime, Great Muslimah, Galaksi Charity, Pemuda Bertahsin dan Komunitas Ngabrink berangkat menuju lokasi kegiatan Bakti Ka Lembur, tepatnya di Desa Cisurupan Garut.<br> <br>
 
