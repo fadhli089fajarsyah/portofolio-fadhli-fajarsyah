@@ -42,7 +42,7 @@
           </div>
       </div>
         <!-- toggle humburger menu -->
-        
+        <!--  -->
           <button id="hamburger " name="hamburger" class="flex flex-col md:hidden relative mr-5 active:animate-bounce" @click="toggleHamburgerButton">
             <span class="px-3 h-1 bg-neutral-900 ml-2 mb-1 "></span>
             <span class="px-3 h-1 bg-neutral-900 ml-2 mb-1 "></span>
