@@ -19,7 +19,7 @@
               <!-- Dropdown menu -->
               <div
                 v-show="show"
-                class="py-2 mt-2 bg-white rounded-md shadow-lg lg:absolute lg:top-[60px] lg:right-[32%] z-20">
+                class="py-2 lg:mt-2 bg-white rounded-md   shadow-lg absolute top-[70px] right-[10%] md:right-[53%] top-[60px] lg:right-[32%] z-20 border border-black">
                 <router-link to="pdakwah"  class="block px-4 py-2 text-indigo-900	 hover:text-teal-500 hover:bg-blue-900 hover:text-indigo-100">DAKWAH DAN KEUMATAN</router-link>
                 <router-link to=""  class="block px-4 py-2 text-indigo-900	 hover:text-teal-500 hover:bg-blue-900 hover:text-indigo-100">SOSIAL</router-link>
                 <router-link to="kemanusiaan"  class="block px-4 py-2 text-indigo-900	 hover:text-teal-500 hover:bg-blue-900 hover:text-indigo-100">KEMANUSIAAN</router-link>
@@ -28,7 +28,7 @@
             
               <a href="layanan" id="" name="" class="text-indigo-900 hover:text-teal-500 py-[5px] md:py-[0px] 	 ">LAYANAN</a>
               <a href="ARTIKEL" id="" name="" class="text-indigo-900 hover:text-teal-500 py-[5px] md:py-[0px] 	 ">ARTIKEL</a>
-              <a href="tentangkami" id="" name="" class="text-indigo-900 hover:text-teal-500 py-[5px] md:py-[0px] 	 ">TENTANG KAMI</a>  
+              <a href="tentangkami" id="" name="" class="text-indigo-900 hover:text-teal-500 py-[5px] md:py-[0px]  	 ">TENTANG KAMI</a>  
               
           </div>
           <!-- donasi -->
@@ -43,10 +43,14 @@
       </div>
         <!-- toggle humburger menu -->
         <!--  -->
-          <button id="hamburger " name="hamburger" class="flex flex-col md:hidden relative mr-5 active:animate-bounce" @click="toggleHamburgerButton">
+          <button id="hamburger " name="hamburger" class="flex px-[10px] flex-col md:hidden relative  active:animate-bounce" @click="toggleHamburgerButton">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-auto w-[15px]">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 5.25l-7.5 7.5-7.5-7.5m15 6l-7.5 7.5-7.5-7.5" />
+            </svg>
+
+            <!-- <span class="px-3 h-1 bg-neutral-900 ml-2 mb-1 "></span>
             <span class="px-3 h-1 bg-neutral-900 ml-2 mb-1 "></span>
-            <span class="px-3 h-1 bg-neutral-900 ml-2 mb-1 "></span>
-            <span class="px-3 h-1 bg-neutral-900 ml-2 mb-1 "></span>
+            <span class="px-3 h-1 bg-neutral-900 ml-2 mb-1 "></span> -->
           </button>
           
     </div>
