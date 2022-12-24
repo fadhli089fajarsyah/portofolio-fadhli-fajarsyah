@@ -19,7 +19,7 @@
               <!-- Dropdown menu -->
               <div
                 v-show="show"
-                class="py-2 lg:mt-2 bg-white rounded-md   shadow-lg absolute top-[70px] right-[10%] md:right-[53%] top-[60px] lg:right-[32%] z-20 border border-black">
+                class="py-2 lg:mt-2 bg-white rounded-md   shadow-lg absolute top-[70px] right-[10%] md:right-[53%] top-[60px] lg:right-[32%] z-20 drop-shadow-2xl">
                 <router-link to="pdakwah"  class="block px-4 py-2 text-indigo-900	 hover:text-teal-500 hover:bg-blue-900 hover:text-indigo-100">DAKWAH DAN KEUMATAN</router-link>
                 <router-link to=""  class="block px-4 py-2 text-indigo-900	 hover:text-teal-500 hover:bg-blue-900 hover:text-indigo-100">SOSIAL</router-link>
                 <router-link to="kemanusiaan"  class="block px-4 py-2 text-indigo-900	 hover:text-teal-500 hover:bg-blue-900 hover:text-indigo-100">KEMANUSIAAN</router-link>
