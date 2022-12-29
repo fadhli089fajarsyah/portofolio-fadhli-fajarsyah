@@ -94,11 +94,11 @@
             <!-- akhir 5 -->
 
             <!-- isi 6 -->
-            <div>
+            <div class="md:text-[10px] lg:text-[15px] ">
                 <P>ARTIKEL</P>
                 <h1>Berita Terbaru dari Kami</h1>
                 <div CLASS="flex flex-wrap">
-                    <div class="md:w-[50%] lg:mx-[60px] md:mx-[10px] py-[10px]  md:border">
+                    <div class="md:w-[40%] lg:mx-[60px] md:mx-[10px] py-[10px]  md:border">
                     <img class="w-full" src="../assets/img/SAM_1073-scaled-1.png" alt="">
                         <h3 class="font-bold text-[px] text-emerald-600  md:text-[16px] lg:text-[23px] md:py-[1px] lg:py-[5px]">Ikatan Alumni FK Unisba</h3>
                         <!-- ket admind tgl berita-->
@@ -146,7 +146,8 @@
                         <p class="lg:mb-[15px]">Sebagai bentuk bakti tenaga kesehatan, Ikatan Alumni FK Unisba  juga turut serta dalam mendukung kegiatan Bakti Ka Lembur di  Desa Cisurupan Garut dan Desa Ganjarsari Kabupaten Bandung  Barat.</p>
                         <a href="" class=" text-[5px] md:text-[10px] lg:text-[14px] text-[0.6em] underline text-emerald-600  font-semibold">BACA SELENGKAPNYA</a>
                 </div>
-                <DIv classs="" >
+
+                <div class="md:w-[50%]" >
                     <div class="flex-warp lg:mx-[60px] md:mx-[10px] py-[10px]  md:border flex ">
                         <img class="w-[35%] " src="../assets/img/Slide3.png" alt="">
                         <div class="ml-[5px] ">
@@ -195,8 +196,8 @@
                       <p class="lg:px-[2px] lg:py-[3px]">Kegiatan Bakti Ka Lembur di Desa Cisarupan  Garut dan Ganjarsari Kabupaten  Bandung Barat. </p>
                       <a href="baktikalembur" class=" text-[5px] md:text-[10px] lg:text-[14px]text-[0.8em] underline text-emerald-600  font-semibold">BACA SELENGKAPNYA</a>
                       </div>
-              </div>
-              <div class="md:w-[50%] lg:mx-[60px] md:mx-[10px] py-[10px]  md:border flex ">
+                </div>
+              <div class=" lg:mx-[60px] md:mx-[10px] py-[10px]  md:border flex ">
                   <img class="w-[35%] " src="../assets/img/sdkm.png" alt="">
                       <div class="ml-[5px] ">
                         <h3 class="font-bold text-[8px] text-emerald-600  md:text-[13px] lg:text-[16px] md:py-[1px] lg:py-[1px]">Ratusan paket sembako</h3>
@@ -246,11 +247,13 @@
                       <a href="" class=" text-[5px] md:text-[10px] lg:text-[14px]text-[0.8em] underline text-blue-900 font-semibold">BACA SELENGKAPNYA</a>
                     </div>
                 </div>
-            </DIv>
-           </div>
+            </div>
+            </div>
             </div>
             <!-- akhir 6 -->
-        <TheFooter />
+            <!-- 7 -->
+            <a href="" class="">Baca Artikel Lainnya</a>
+            <TheFooter />
     </div>
 </template>
 <style setup>
