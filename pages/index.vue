@@ -252,7 +252,9 @@
             </div>
             <!-- akhir 6 -->
             <!-- 7 -->
-            <a href="" class="">Baca Artikel Lainnya</a>
+            <div class="flex justify-center items-center pb-[10px] rounded">
+                <a href="" class=" text-[9px] md:text-[13px] lg:text-[23px] text-emerald-600 border border-emerald-600 px-[7px] border-[3px]  font-semibold">Baca Artikel Lainnya</a>
+            </div>
             <TheFooter />
     </div>
 </template>
