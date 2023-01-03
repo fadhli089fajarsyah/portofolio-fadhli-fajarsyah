@@ -37,7 +37,8 @@
                     
                     <label class="font-medium" for="jumlah-rp">Jumlah (Rp)</label>
                     <input class="mb-[5px] py-[5px] lg:mb-[20px] border-black border-[0.1px] border md:rounded md:py-[4px]" type="text" id="jumlah-rp" name="jumlah-rp">
-
+                   
+                    <button class="h-auto w-[120px] md:w-[200px] lg:w-[380px]"><img src="../assets/img/ddn].png" alt=""></button>
                     <button class="bg-blue-900 text-white py-[10px] rounded font-bold">Donasi</button>
                 </from>
             </div>
