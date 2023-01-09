@@ -89,6 +89,9 @@
                     </div>
                 </div>
             <!-- akhir 4 -->
+            <!-- slide -->
+            <slide-1 />
+            <!-- slide -->
             <!-- isi5 -->
             <peta />
             <!-- akhir 5 -->

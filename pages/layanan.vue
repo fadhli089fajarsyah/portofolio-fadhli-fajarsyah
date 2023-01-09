@@ -23,7 +23,7 @@
             <!-- akhir2 -->
 
             <!-- 3 -->
-            <!-- tinggal yang pake vuejs -->
+            <slide-1 />
             <!-- akhir3 -->
 
             <!-- 4 -->
