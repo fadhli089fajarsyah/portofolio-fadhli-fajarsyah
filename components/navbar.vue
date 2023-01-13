@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex w-screen items-center justify-between lg:py-7 lg:px-20 px-2 border border-slate-200 h-10 lg:text-sm text-xs ">
+    class="flex w-screen items-center justify-between lg:py-7 lg:px-20 px-2 border border-slate-200 h-10 lg:text-sm text-xs z-30 fixed bg-white shadow-2xl ">
     <div class="w-1/6">
       <img src="../assets/img/logo.png" alt="" class="w-5/6">
     </div>

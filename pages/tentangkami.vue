@@ -1,6 +1,7 @@
 <template >
     <div class="overflow-hidden text-[8px] md:text-[10px] xl:text-[16px]">
        <navbar />
+       <div class="h-[42px] md:h-[40px] lg:h-[60px]"></div>
        <div class="flex h-[100px] items-center justify-center bg-progam bg-cover w-full xl:h-[300px] md:h-[200px]">
                <h1 class="xl:text-5xl md:text-2xl font-bold text-white">TENTANG KAMI</h1>
         </div>

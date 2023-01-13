@@ -2,6 +2,7 @@
     <div class="overflow-hidden ">
         
         <navbar />
+        <div class="h-[42px] md:h-[40px] lg:h-[60px]"></div>
             <!-- 1 -->
                 <cu />
             <!-- akhir1 -->
@@ -31,10 +32,10 @@
             <!-- akhir2 -->
 
             <!-- 3 -->
-            <div class=" md:px-[50px] md:py-[20px] b321">
+            <div class=" md:px-[50px] md:py-[20px] b321 py-[30px]">
                 <h1 class="font-bold lg:text-lg  md:text-[16px] text-indigo-900">Progam Kami</h1>
-                <p class="lg:mt-[10px] md:mt-[10px] mt-[5px] text-[7px] lg:text-[16px] md:text-[10px]">Dakwah dan keumatan,sosial,dan kemanusiaan menjadi pilar progam Yayasan Abdi Bakti Izzati</p>
-                <p class="lg:mb-[10px] md:mb-[10px] mb-[5px] text-[7px] lg:text-[16px] md:text-[10px]">dalam rangka membangun dan memberdayakan segenap potensi masyarakat muslim indonesia.</p>
+                <p class="lg:mt-[10px] md:mt-[10px] mt-[5px] text-[9px] lg:text-[16px] md:text-[10px]">Dakwah dan keumatan,sosial,dan kemanusiaan menjadi pilar progam Yayasan Abdi Bakti Izzati</p>
+                <p class="lg:mb-[10px] md:mb-[10px] mb-[5px] text-[9px] lg:text-[16px] md:text-[10px]">dalam rangka membangun dan memberdayakan segenap potensi masyarakat muslim indonesia.</p>
                 <!-- card progam kami -->
                 <div class="flex pb-[10px] items-center justify-between text-[5px] md:text-[10px] lg:text-[15px]" >
                     <!-- satuan c-->
@@ -78,7 +79,7 @@
                 <div class=" md:flex my-[20px] md:my-[30px] ">
                     <div class="md:w-[50%] flex items-center justify-center">
                         <img class="hidden md:flex md:w-[330px] lg:w-[600px]" src="../assets/img/hua.png" alt="">
-                        <img class="h-auto w-[80%] md:w-[] md:z-10 md:ml-[-250px] lg:ml-[-450px]"  src="../assets/img/hau.png" alt="">
+                        <img class="h-auto w-[60%] md:w-[80%] xl:w-[70%] md:z-10 md:ml-[-250px] lg:ml-[-450px]"  src="../assets/img/hau.png" alt="">
                     </div>
                     <div class="md:w-[50%]  text-center text-[9px] md:text-[8px] justify-center lg:text-[14px] flex flex-col items-center">
                         <p class="text-emerald-700 font-semibold">Donasi</p>
@@ -98,8 +99,8 @@
 
             <!-- isi 6 -->
             <div class="md:text-[10px] lg:text-[15px] ">
-                <P>ARTIKEL</P>
-                <h1>Berita Terbaru dari Kami</h1>
+                <P class="flex justify-center items-center">ARTIKEL</P>
+                <h1 class="flex justify-center items-center">Berita Terbaru dari Kami</h1>
                 <div CLASS="flex flex-wrap">
                     <div class="md:w-[40%] lg:mx-[60px] md:mx-[10px] py-[10px]  md:border">
                     <img class="w-full" src="../assets/img/SAM_1073-scaled-1.png" alt="">
@@ -200,7 +201,8 @@
                       <a href="baktikalembur" class=" text-[5px] md:text-[10px] lg:text-[14px]text-[0.8em] underline text-emerald-600  font-semibold">BACA SELENGKAPNYA</a>
                       </div>
                 </div>
-              <div class=" lg:mx-[60px] md:mx-[10px] py-[10px]  md:border flex ">
+
+              <div class=" lg:mx-[60px] md:mx-[10px] py-[10px] xl:w-[73%]  md:border flex ">
                   <img class="w-[35%] " src="../assets/img/sdkm.png" alt="">
                       <div class="ml-[5px] ">
                         <h3 class="font-bold text-[8px] text-emerald-600  md:text-[13px] lg:text-[16px] md:py-[1px] lg:py-[1px]">Ratusan paket sembako</h3>

@@ -1,6 +1,7 @@
 <template >
     <div class="overflow-hidden ">
        <navbar />
+       <div class="h-[42px] md:h-[40px] lg:h-[60px]"></div>
            <div class="   gbb bg-cover w-full text-[7px] md:text-[10px] lg:text-[16px] h-[120px] px-[50px] py-[40px] lg:h-[300px] md:h-[200px] lg:px-[250px] lg:py-[90px]">
                <div class="flex justify-between">
                 <h1 class="text-white">DESA CISURUPAN,GARUT</h1>
