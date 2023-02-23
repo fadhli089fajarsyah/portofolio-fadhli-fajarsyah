@@ -258,7 +258,7 @@
             <!-- akhir 6 -->
             <!-- 7 -->
             <div class="flex justify-center items-center pb-[10px] rounded">
-                <a href="" class=" text-[9px] md:text-[13px] lg:text-[23px] text-emerald-600 border border-emerald-600 px-[7px] border-[3px]  font-semibold">Baca Artikel Lainnya</a>
+                <a href="" class=" text-[9px] md:text-[13px] lg:text-[23px] text-emerald-600 border border-emerald-600 px-[7px] border-[3px]  font-semibold rounded">Baca Artikel Lainnya</a>
             </div>
             <TheFooter />
     </div>
